@@ -55,8 +55,91 @@ Feel free to reach out to me via any of the above channels. Looking forward to c
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+## 🛠️ **Languages and Tools**
+
+<p align="center">
+    <!-- HTML -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    </a>
+    <!-- CSS -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </a>
+    <!-- JavaScript -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </a>
+    <!-- C++ -->
+    <a href="https://isocpp.org/" target="_blank">
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+    </a>
+    <!-- React -->
+    <a href="https://reactjs.org/" target="_blank">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    </a>
+    <!-- Python -->
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </a>
+    <!-- Laravel -->
+    <a href="https://laravel.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    </a>
+    <!-- Networking -->
+    <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank">
+        <img src="https://img.shields.io/badge/Networking-0061A8?style=for-the-badge&logo=network&logoColor=white" alt="Networking" />
+    </a>
+    <!-- NPM -->
+    <a href="https://www.npmjs.com/" target="_blank">
+        <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+    </a>
+    <!-- VMware -->
+    <a href="https://www.vmware.com/" target="_blank">
+        <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+    </a>
+    <!-- Postman -->
+    <a href="https://www.postman.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    </a>
+    <!-- PuTTY -->
+    <a href="https://www.putty.org/" target="_blank">
+        <img src="https://img.shields.io/badge/PuTTY-023160?style=for-the-badge&logo=putty&logoColor=white" alt="PuTTY" />
+    </a>
+    <!-- MySQL -->
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    </a>
+    <!-- Database -->
+    <a href="https://en.wikipedia.org/wiki/Database" target="_blank">
+        <img src="https://img.shields.io/badge/Database-4DB33D?style=for-the-badge&logo=database&logoColor=white" alt="Database" />
+    </a>
+    <!-- Nmap -->
+    <a href="https://nmap.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+    </a>
+    <!-- WinSCP -->
+    <a href="https://winscp.net/" target="_blank">
+        <img src="https://img.shields.io/badge/WinSCP-26B7E4?style=for-the-badge&logo=winscp&logoColor=white" alt="WinSCP" />
+    </a>
+    <!-- Apache -->
+    <a href="https://httpd.apache.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+    </a>
+    <!-- Tomcat -->
+    <a href="https://tomcat.apache.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat" />
+    </a>
+    <!-- AnyDesk -->
+    <a href="https://anydesk.com/en" target="_blank">
+        <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white" alt="AnyDesk" />
+    </a>
+    <!-- Belarc Advisor -->
+    <a href="https://www.belarc.com/products_belarc_advisor" target="_blank">
+        <img src="https://img.shields.io/badge/Belarc%20Advisor-3978D7?style=for-the-badge&logo=belarcadvisor&logoColor=white" alt="Belarc Advisor" />
+    </a>
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajayush2167&show_icons=true&locale=en&layout=compact" alt="rajayush2167" /></p>
 
