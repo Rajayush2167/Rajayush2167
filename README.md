@@ -1,4 +1,4 @@
-![logo](https://github.com/Rajayush2167/Rajayush2167/blob/main/Screenshot_2024-08-19-15-53-34-50_c0d35d5c8ea536686f7fb1c9f2f8f274.png)
+![logo](https://github.com/Rajayush2167/Rajayush2167/blob/main/Screenshot_2024-08-21-01-52-10-75_c0d35d5c8ea536686f7fb1c9f2f8f274.png)
 <h1 align="center">Hi 👋, I'm Raj Ayush</h1>
 
 <p><img align="left" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="100" alt="rajayush2167" /></p>
