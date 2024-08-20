@@ -1,6 +1,29 @@
 ![logo](https://github.com/Rajayush2167/Rajayush2167/blob/main/Screenshot_2024-08-19-15-53-34-50_c0d35d5c8ea536686f7fb1c9f2f8f274.png)
 <h1 align="center">Hi 👋, I'm Raj Ayush</h1>
-<h3 align="center">A passionate Software Developer and Web Developer from India</h3>
+
+
+I'm a developer with experience in both front-end and back-end technologies. My journey has equipped me with the following skills:
+
+- **HTML/CSS**: Crafting beautiful and responsive web pages.
+- **JavaScript**: Building interactive and dynamic features.
+- **React**: Developing modern, efficient, and scalable web applications.
+- **Laravel**: Creating robust and elegant server-side applications.
+- **MySQL**: Managing and querying relational databases.
+- **C++**: Implementing high-performance and system-level applications.
+- **Python**: Writing clean and versatile code for various applications.
+
+### Front-End
+- **HTML5** ![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+- **CSS3** ![CSS3 Badge](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+- **JavaScript** ![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+- **React** ![React Badge](https://img.shields.io/badge/React-%23282C34.svg?style=flat&logo=react&logoColor=%2361DAFB)
+
+### Back-End
+- **Laravel** ![Laravel Badge](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+- **MySQL** ![MySQL Badge](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+- **Python** ![Python Badge](https://img.shields.io/badge/Python-%2338A1DB.svg?style=flat&logo=python&logoColor=white)
+- **C++** ![C++ Badge](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+
 
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
 
