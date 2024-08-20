@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Rajayush2167/Rajayush2167/blob/main/Screenshot_2024-08-19-15-53-34-50_c0d35d5c8ea536686f7fb1c9f2f8f274.png)
 <h1 align="center">Hi 👋, I'm Raj Ayush</h1>
 <h3 align="center">A passionate Software Developer and Web Developer from India</h3>
 
