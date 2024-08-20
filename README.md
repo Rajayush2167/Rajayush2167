@@ -40,20 +40,18 @@ I'm a developer with experience in both front-end and back-end technologies. My 
 
 ## Connect with Me
 
-<p align="center">
-  <a href="https://instagram".com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram"-1DA1F2?style=for-the-badge&logo=instagram"r&logoColor=white" alt=" Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/ Raj Ayush" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Rajayush2167" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your-rajayush2167@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+
+
+Connect with me on different platforms:
+
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/callmerajayush) 
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-ayush-71b45b231)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto: rajayush2167@gmail.com)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.com)
+
+---
+
+Feel free to reach out to me via any of the above channels. Looking forward to connecting!
 
 
 
