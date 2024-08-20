@@ -1,6 +1,8 @@
 ![logo](https://github.com/Rajayush2167/Rajayush2167/blob/main/Screenshot_2024-08-19-15-53-34-50_c0d35d5c8ea536686f7fb1c9f2f8f274.png)
 <h1 align="center">Hi 👋, I'm Raj Ayush</h1>
 
+<p><img align="left" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="100" alt="rajayush2167" /></p>
+
 
 I'm a developer with experience in both front-end and back-end technologies. My journey has equipped me with the following skills:
 
@@ -11,6 +13,7 @@ I'm a developer with experience in both front-end and back-end technologies. My 
 - **MySQL**: Managing and querying relational databases.
 - **C++**: Implementing high-performance and system-level applications.
 - **Python**: Writing clean and versatile code for various applications.
+  <p><img align="right" src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" width="200" alt="rajayush2167" /></p>
 
 ### Front-End
 - **HTML5** ![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
