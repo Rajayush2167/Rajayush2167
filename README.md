@@ -146,3 +146,4 @@ Feel free to reach out to me via any of the above channels. Looking forward to c
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajayush2167&show_icons=true&locale=en" alt="rajayush2167" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajayush2167&" alt="rajayush2167" /></p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/rajayush2167?theme=wtf)
