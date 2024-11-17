@@ -141,10 +141,10 @@ Feel free to reach out to me via any of the above channels. Looking forward to c
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajayush2167&show_icons=true&locale=en&layout=compact" alt="rajayush2167" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajayush2167&show_icons=true&theme=radical" alt="rajayush2167" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajayush2167&show_icons=true&locale=en" alt="rajayush2167" /></p>
-### LeetCode Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajayush2167&show_icons=true&theme=radical" alt="rajayush2167" /></p>
+
 
 ### LeetCode Stats
 
