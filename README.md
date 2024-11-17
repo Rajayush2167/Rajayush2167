@@ -149,11 +149,11 @@ Feel free to reach out to me via any of the above channels. Looking forward to c
 ### LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rajayush2167?theme=dark&ext=heatmap)
+![Snake animation](https://github.com/<rajayush2167>/<rajayush2167>/blob/output/github-contribution-grid-snake.svg)
+
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajayush2167&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-</p>
+
 
 
 
