@@ -139,6 +139,36 @@ Feel free to reach out to me via any of the above channels. Looking forward to c
         <img src="https://img.shields.io/badge/Belarc%20Advisor-3978D7?style=for-the-badge&logo=belarcadvisor&logoColor=white" alt="Belarc Advisor" />
     </a>
 </p>
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="YOUR_IMAGE_LINK_HERE" alt="Portfolio" width="300" />
+      <h3>Portfolio</h3>
+      <p>
+        Designed and implemented secure user authentication and registration processes using Laravel's built-in authentication system.
+      </p>
+      <a href="YOUR_PROJECT_LINK_HERE">🔗 View Project</a>
+    </td>
+    <td align="center">
+      <img src="YOUR_IMAGE_LINK_HERE" alt="Ecommerce Website" width="300" />
+      <h3>Ecommerce Website</h3>
+      <p>
+        Designed and implemented secure user authentication and registration processes using Laravel. Developed responsive front-end using HTML5, CSS3, JavaScript, and Bootstrap.
+      </p>
+      <a href="YOUR_PROJECT_LINK_HERE">🔗 View Project</a>
+    </td>
+    <td align="center">
+      <img src="YOUR_IMAGE_LINK_HERE" alt="Online Food App" width="300" />
+      <h3>Online Food App</h3>
+      <p>
+        Developed an online food ordering application using Vue.js and Bootstrap. Users can browse menus, place orders, and track deliveries efficiently.
+      </p>
+      <a href="YOUR_PROJECT_LINK_HERE">🔗 View Project</a>
+    </td>
+  </tr>
+</table>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajayush2167&show_icons=true&theme=radical" alt="rajayush2167" /></p>
