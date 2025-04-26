@@ -144,6 +144,44 @@ Feel free to reach out to me via any of the above channels. Looking forward to c
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajayush2167&show_icons=true&theme=radical" alt="rajayush2167" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajayush2167&show_icons=true&theme=radical" alt="rajayush2167" /></p>
+<section class="projects-section">
+    <h2 class="section-title">Projects</h2>
+    <div class="projects-grid">
+      <div class="project-card">
+        <img src="./images/Screenshot (2).png" alt="Smooth Smoothies">
+        <h3>Portfolio </h3>
+        <p>Designed and implemented secure user authentication and registration processes using Laravel's built-in 
+          authentication system. </p>
+        <a href="https://rajayushportfolio.netlify.app/" class="btn">View Project <span class="arrow">&rarr;</span></a>
+      </div>
+  
+       <div class="project-card">
+        <img src="./images/Screenshot (3).png" alt="Snazzy Fashion">
+        <h3>Ecommerce Website</h3>
+        <p>Designed and implemented secure user authentication and registration processes using Laravel's built-in 
+          authentication system. 
+          Developed responsive front-end interfaces for login, registration, and password reset using HTML5, CSS3, 
+          JavaScript, and Bootstrap framework, ensuring a seamless user experience across devices. </p>
+        <a href="#" class="btn">View Project <span class="arrow">&rarr;</span></a>
+      </div>
+  
+      <div class="project-card">
+        <img src="./images/Screenshot 2025-04-26 132245.png" alt="Hero Block Gallery">
+        <h3>Online Food App</h3>
+        <p>                                                                                                                                                       
+          Developed an online food ordering application to facilitate convenient ordering and delivery of food from 
+          local restaurants. 
+          Developed responsive and intuitive front-end interfaces using Vue.js and Bootstrap, enabling users to 
+          browse menus, place orders, and track deliveries efficiently. </p>
+        <a href="#" class="btn">View Project <span class="arrow">&rarr;</span></a>
+      </div>
+  
+     
+  
+      
+      
+    </div>
+  </section>
 
 
 
