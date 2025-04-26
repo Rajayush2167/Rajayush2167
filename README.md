@@ -152,7 +152,7 @@ Feel free to reach out to me via any of the above channels. Looking forward to c
       <a href="YOUR_PROJECT_LINK_HERE">🔗 View Project</a>
     </td>
     <td align="center">
-      <img src="YOUR_IMAGE_LINK_HERE" alt="Ecommerce Website" width="300" />
+      <img src="https://drive.google.com/file/d/1urnjfn4ry3x26DKzykNlyNkq1LAyG5H0/view?usp=sharing" alt="Ecommerce Website" width="300" />
       <h3>Ecommerce Website</h3>
       <p>
         Designed and implemented secure user authentication and registration processes using Laravel. Developed responsive front-end using HTML5, CSS3, JavaScript, and Bootstrap.
