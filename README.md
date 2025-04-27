@@ -153,6 +153,25 @@ Feel free to reach out to me via any of the above channels. Looking forward to c
  
   <img align="left" src="https://streak-stats.demolab.com/?user=rajayush2167&theme=radical" alt="GitHub Streak" />
 </p>
+<h1 align="center">Hi, I'm Ayush Raj!</h1>
+
+<p align="center">
+  <img src="https://your-uploaded-image-link.png" alt="GitHub Contributions" />
+</p>
+
+## About Me
+- **Contributions in 2025**: 2
+- **Public Repositories**: 37
+- **GitHub Journey**: Joined 3 years ago
+- **Location**: Ranchi, Jharkhand
+
+## Connect with Me
+- [GitHub Profile](https://github.com/YourGitHubUsername)
+
+---
+
+<p align="center">Thanks for visiting my profile!</p>
+
 
 
 
