@@ -1,6 +1,6 @@
 <!-- PROFILE LOGO -->
 <p align="center">
-  <img src="https://github.com/Rajayush2167/Rajayush2167/blob/main/IMG-20250514-WA0014.jpg" alt="logo" style="width:100%; max-width:400px; height:auto;" />
+  <img src="https://github.com/Rajayush2167/Rajayush2167/blob/main/WhatsApp Image 2025-05-16 at 19.27.31_fcf069a1.jpg" alt="logo" style="width:100%; max-width:400px; height:auto;" />
 </p>
 
 
