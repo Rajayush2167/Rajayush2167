@@ -14,9 +14,9 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" />
 </p>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Raj+Ayush;Energetic+Backend+Developer;Laravel+%7C+Python+%7C+OS%7C+Computer+Networking;Tech+Explorer+%F0%9F%9A%80+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&center=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Raj+Ayush;Energetic+Software+Developer;Laravel+%7C+Python+%7C+OS%7C+CN;Tech+Explorer+%F0%9F%9A%80+%7C+Problem+Solver" alt="Typing SVG" />
 </h3>
-<h1 align="center">Hi 👋, I'm Rajayush</h1>
+
 <h3 align="center">A Passionate Software Developer from India</h3>
 
 ---
@@ -66,78 +66,67 @@
 </div>
 
 ---
-## 🧠 Skills & Technologies
+<h2 align="center">🧠 Skills & Technologies</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=cpp" width="50"/><br/>
+    <td align="center" width="130" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=cpp" width="60"/><br/>
       <b>C++</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="50"/><br/>
+    <td align="center" width="130" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=python" width="60"/><br/>
       <b>Python</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="50"/><br/>
+    <td align="center" width="130" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=js" width="60"/><br/>
       <b>JavaScript</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="50"/><br/>
+  </tr>
+  <tr>
+    <td align="center" width="130" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=html" width="60"/><br/>
       <b>HTML</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="50"/><br/>
+    <td align="center" width="130" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=css" width="60"/><br/>
       <b>CSS</b>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=laravel" width="50"/><br/>
+    <td align="center" width="130" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=laravel" width="60"/><br/>
       <b>Laravel</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="50"/><br/>
+  </tr>
+  <tr>
+    <td align="center" width="130" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=react" width="60"/><br/>
       <b>React</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/>
+    <td align="center" width="130" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br/>
       <b>Tailwind</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br/>
+    <td align="center" width="130" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="60"/><br/>
       <b>Bootstrap</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>
-      <b>MySQL</b>
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="50"/><br/>
+    <td align="center" width="130" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=mysql" width="60"/><br/>
+      <b>MySQL</b>
+    </td>
+    <td align="center" width="130" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=git" width="60"/><br/>
       <b>Git</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=github" width="50"/><br/>
+    <td align="center" width="130" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=github" width="60"/><br/>
       <b>GitHub</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/>
-      <b>VS Code</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=figma" width="50"/><br/>
-      <b>Figma</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br/>
-      <b>Next.js</b>
     </td>
   </tr>
 </table>
 
----
 
 ## 🎯 Currently Learning
 
