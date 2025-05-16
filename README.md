@@ -1,5 +1,5 @@
 <!-- PROFILE LOGO -->
-![logo](https://github.com/Rajayush2167/Rajayush2167/blob/main/)
+![logo](https://github.com/Rajayush2167/Rajayush2167/blob/main/IMG-20250514-WA0014.jpg)
 
 
 ---
