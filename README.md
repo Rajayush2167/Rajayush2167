@@ -68,12 +68,12 @@
   <img src="https://img.shields.io/badge/-Networking-005C99?style=for-the-badge&logo=fastapi&logoColor=white" />
 </div>
 
-## 🎞️ My Showcase
+
 <p align="center">
-  <img src="" width="600" />
+  <img src="WhatsAppVideo2025-04-25at18.42.14_3a79f0e7-ezgif.com-video-to-gif-converter.gif" width="300" />
 </p>
 
----
+
 <h2 align="center">🧠 Skills & Technologies</h2>
 
 <table align="center">
