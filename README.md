@@ -19,8 +19,46 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Raj+Ayush;Energetic+Backend+Developer;Laravel+%7C+Python+%7C+OS%7C+Computer+Networking;Tech+Explorer+%F0%9F%9A%80+%7C+Problem+Solver" alt="Typing SVG" />
 </h3>
+<h1 align="center">Hi 👋, I'm Rajayush</h1>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 ---
+
+### 🚀 About Me
+
+- 🔭 I’m currently learning: **Machine Learning and Generative AI**
+- 🌱 I’m exploring: **Advanced Laravel, React, and AI integrations**
+- 🧠 I regularly write code in: **C++, Python, Laravel, JavaScript**
+- ⚡ Fun fact: I can debug anything — even your bad day!
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,laravel,mysql,js,html,css,git,github,vscode" />
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajayush2167&theme=tokyo-night" alt="Rajayush Contribution Graph" />
+</p>
+
+---
+
+
+
+
+
+
+
+---
+
+
+---
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -31,27 +69,111 @@
 </div>
 
 ---
+## 🧠 Skills & Technologies
 
-I'm a passionate [your profession] specializing in [your skills]. I love building innovative solutions and contributing to open source. When I'm not coding, you can find me [your hobbies].
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=cpp" width="50"/><br/>
+      <b>C++</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="50"/><br/>
+      <b>Python</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="50"/><br/>
+      <b>JavaScript</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="50"/><br/>
+      <b>HTML</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="50"/><br/>
+      <b>CSS</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=laravel" width="50"/><br/>
+      <b>Laravel</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="50"/><br/>
+      <b>React</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/>
+      <b>Tailwind</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br/>
+      <b>Bootstrap</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>
+      <b>MySQL</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="50"/><br/>
+      <b>Git</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" width="50"/><br/>
+      <b>GitHub</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/>
+      <b>VS Code</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=figma" width="50"/><br/>
+      <b>Figma</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br/>
+      <b>Next.js</b>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Skills
+---
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## 🎯 Currently Learning
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 12px;">
+      <img src="https://img.shields.io/badge/-Machine%20Learning-FFD700?style=for-the-badge&logo=scikitlearn&logoColor=black" alt="Machine Learning"/><br/>
+      <strong>Machine Learning</strong>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://img.shields.io/badge/-Generative%20AI-FF69B4?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/><br/>
+      <strong>Generative AI</strong>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://img.shields.io/badge/-LangChain-7B68EE?style=for-the-badge&logo=python&logoColor=white" alt="LangChain"/><br/>
+      <strong>LangChain</strong>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://img.shields.io/badge/-Hugging%20Face-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/><br/>
+      <strong>Hugging Face</strong>
+    </td>
+  </tr>
+</table>
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
+
+
+
+
+
+
 
 
 ## 🔥 Streak Stats
