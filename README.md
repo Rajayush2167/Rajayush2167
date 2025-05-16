@@ -1,7 +1,4 @@
 <!-- PROFILE LOGO -->
-<p align="center">
-  <img src="https://github.com/Rajayush2167/Rajayush2167/blob/main/IMG-20250514-WA0014.jpg" width="700" height= "400" style="border-radius: 50%;" />
-</p>
 
 
 
