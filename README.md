@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" />
 </p>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Raj+Ayush;Energetic+Backend+Developer;Laravel+%7C+Python+%7C+System+Design+%7C+APIs;Tech+Explorer+%F0%9F%9A%80+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Raj+Ayush;Energetic+Backend+Developer;Laravel+%7C+Python+%7C+OS%7C+Computer+Networking;Tech+Explorer+%F0%9F%9A%80+%7C+Problem+Solver" alt="Typing SVG" />
 </h3>
 
 ---
@@ -32,9 +32,13 @@
 
 ---
 
-```diff
-+ 💻 Backend Developer with 2+ years of hands-on experience.
-! 🚀 Passionate about scalable APIs, clean architecture & security.
-# 🎯 Focused on Laravel, Python, MySQL, and DevOps tools.
-- 🌐 Constantly learning new tech and improving my skillset!
+
+
+## 👀 Profile Views
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-2000-blue?style=flat)
+
+
+
+
 
