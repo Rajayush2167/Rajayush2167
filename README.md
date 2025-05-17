@@ -20,6 +20,14 @@
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" />
 </p>
+### 🛣️ My Developer Journey
+
+- 🚀 **2021** — Started with **C++** and **Python**
+- 🧠 **2022** — Mastered **Laravel** & dove into **Full-Stack Development**
+- 🔧 **2023** — Explored **AI tools** & contributed to **Open-Source Projects**
+- 🤖 **2024** — Focused on **Machine Learning** & **Generative AI**
+- 🧑‍💻 **2025** — Building **Production-Level AI-Integrated Applications**
+
 
 
 
