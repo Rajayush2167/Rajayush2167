@@ -20,13 +20,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" />
 </p>
-### 🛣️ My Developer Journey
 
-- 🚀 **2021** — Started with **C++** and **Python**
-- 🧠 **2022** — Mastered **Laravel** & dove into **Full-Stack Development**
-- 🔧 **2023** — Explored **AI tools** & contributed to **Open-Source Projects**
-- 🤖 **2024** — Focused on **Machine Learning** & **Generative AI**
-- 🧑‍💻 **2025** — Building **Production-Level AI-Integrated Applications**
 
 
 
@@ -210,6 +204,23 @@
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
+## 🛣️ My Developer Journey
+
+<div align="center">
+
+| Year | Journey Milestone |
+|------|-------------------|
+| 🚀 **2021** | 🚩 Started with <strong>C++</strong> and <strong>Python</strong> |
+| 🧠 **2022** | 💻 Learned <strong>Laravel</strong> & dived into <strong>Full-Stack Development</strong> |
+| 🔧 **2023** | 🔍 Explored <strong>AI tools</strong> & contributed to <strong>Open-Source Projects</strong> |
+| 🤖 **2024** | 🧠 Focused on <strong>Machine Learning</strong> & <strong>Generative AI</strong> |
+| 🧑‍💻 **2025** | 🚀 Building <strong>Production-Level AI-Integrated Applications</strong> |
+
+</div>
+
+---
+
+🌟 *Each year is a new chapter in my mission to build smart, scalable, and future-ready solutions.*
 
 
 
