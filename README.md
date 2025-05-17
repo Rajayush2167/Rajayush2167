@@ -2,37 +2,36 @@
 <p align="center">
   <img src="https://github.com/Rajayush2167/Rajayush2167/blob/main/WhatsApp Image 2025-05-16 at 19.27.31_fcf069a1.jpg" alt="logo" style="width:100%; max-width:400px; height:auto;" />
 </p>
-
-
-
----
-
-
-
-
-## 🚀 About Me
-
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" />
-</p>
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&center=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Raj+Ayush;Energetic+Software+Developer;Laravel+%7C+Python+%7C+OS%7C+CN;Tech+Explorer+%F0%9F%9A%80+%7C+Problem+Solver" alt="Typing SVG" />
 </h3>
-
 <h3 align="center">A Passionate Software Developer from India</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rajayush2167&label=👁️+Views&color=8A2BE2&style=flat-square" alt="Visitor Count" />
 </p>
-
-
 ### 🚀 About Me
 
 - 🔭 I’m currently learning: **Machine Learning and Generative AI**
 - 🌱 I’m exploring: **Advanced Laravel, React, and AI integrations**
 - 🧠 I regularly write code in: **C++, Python, Laravel, JavaScript**
 - ⚡ Fun fact: I can debug anything — even your bad day!
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
