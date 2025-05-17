@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rajayush2167&label=👁️+Views&color=8A2BE2&style=flat-square" alt="Visitor Count" />
 </p>
-### 🚀 About Me
+🚀 About Me
 
 - 🔭 I’m currently learning: **Machine Learning and Generative AI**
 - 🌱 I’m exploring: **Advanced Laravel, React, and AI integrations**
