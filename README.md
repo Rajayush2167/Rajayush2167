@@ -190,20 +190,27 @@
 
 <!-- Animated Contact Me Section -->
 <h3 align="center">📫 Contact Me</h3>
-<div align="center"class="contact-icons">
+<div align="center" class="contact-icons">
   <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/yourinstagram/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://rajayush.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://leetcode.com/rajayush2167/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
 </div>
+
+
+
+---
 ## 🛣️ My Developer Journey
 
 <div align="center">
@@ -217,9 +224,6 @@
 | 🧑‍💻 **2025** | 🚀 Building <strong>Production-Level AI-Integrated Applications</strong> |
 
 </div>
-
----
-
 🌟 *Each year is a new chapter in my mission to build smart, scalable, and future-ready solutions.*
 
 
